@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b3b65aa.css",
-    "main.js": "/static/js/main.93829d43.js",
-    "static/js/787.53ef2763.chunk.js": "/static/js/787.53ef2763.chunk.js",
-    "static/media/image-equilibrium.jpg": "/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
-    "index.html": "/index.html",
-    "main.0b3b65aa.css.map": "/static/css/main.0b3b65aa.css.map",
-    "main.93829d43.js.map": "/static/js/main.93829d43.js.map",
-    "787.53ef2763.chunk.js.map": "/static/js/787.53ef2763.chunk.js.map"
+    "main.css": "/nft-card-react/static/css/main.0b3b65aa.css",
+    "main.js": "/nft-card-react/static/js/main.1ba98fcc.js",
+    "static/js/787.53ef2763.chunk.js": "/nft-card-react/static/js/787.53ef2763.chunk.js",
+    "static/media/image-equilibrium.jpg": "/nft-card-react/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/nft-card-react/index.html",
+    "main.0b3b65aa.css.map": "/nft-card-react/static/css/main.0b3b65aa.css.map",
+    "main.1ba98fcc.js.map": "/nft-card-react/static/js/main.1ba98fcc.js.map",
+    "787.53ef2763.chunk.js.map": "/nft-card-react/static/js/787.53ef2763.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b3b65aa.css",
-    "static/js/main.93829d43.js"
+    "static/js/main.1ba98fcc.js"
   ]
 }
